@@ -6,6 +6,3 @@ Welcome to the **Personal Fun Facts Generator**! This is a simple, interactive w
 
 This project was created as a capstone project for the GenAI 101 workshop, showcasing generative AI techniques, prompt engineering, and the basics of creating an interactive app with HTML, CSS, and JavaScript.
 
-## Task Overview
-
-Look at the documentation [here](/docs.md)
